@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+""" Utils """
 import sys
 
 PY3 = sys.version_info >= (3,)

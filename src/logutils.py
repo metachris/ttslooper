@@ -1,4 +1,7 @@
+# -*- coding: utf-8 -*-
 """
+Easy and beautiful logging.
+
 Usage:
 
     from logger import setup_logger

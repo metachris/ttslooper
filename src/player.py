@@ -1,6 +1,6 @@
-"""
-MediaPlayer plays the music files with omxplayer, and reacts to mouse-inputs
-"""
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+""" Media Player """
 import os
 import sys
 # import time
